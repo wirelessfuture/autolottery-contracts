@@ -5,7 +5,6 @@
 //  /    |    \  |  /|  | (  <_> )    |__(  <_> )  |  |  | \  ___/|  | \/\___  |
 //  \____|__  /____/ |__|  \____/|_______ \____/|__|  |__|  \___  >__|   / ____|
 //         \/                           \/                     \/       \/     
-// Created by Jack Stryder fron Seyda Neen
 // Automatically draws a winner once the payout threshold is met
 
 pragma solidity ^0.7.0;
